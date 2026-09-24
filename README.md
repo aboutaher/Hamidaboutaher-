@@ -14,7 +14,7 @@ Areas of focus:
 🏥 Healthcare Analytics & Fraud Detection
 📈 Data Visualization & Business Intelligence
 
-🛠️ Core Technologies
+ # 🛠️ Core Technologies
 
 Languages & Data
 
@@ -32,11 +32,11 @@ Analytics & Visualization
 
 Tableau Power BI Matplotlib Excel
 
-Databases
+# Databases
 
 SQL Server PostgreSQL Relational Databases
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 🏥 Healthcare Fraud Detection
 
@@ -51,9 +51,9 @@ Evaluated model performance using ROC-AUC, precision, recall, F1-score, and conf
 Applied SHAP to explain model predictions and identify important features
 Designed the project with potential deployment as an interactive application
 
-Technologies: Python Pandas Scikit-learn XGBoost SHAP
+# Technologies: Python Pandas Scikit-learn XGBoost SHAP
 
-🧬 Cancer Detection with CNN
+# 🧬 Cancer Detection with CNN
 
 Deep Learning • Computer Vision • Convolutional Neural Networks
 
@@ -67,7 +67,7 @@ Explored deep learning approaches for medical image analysis
 
 Technologies: Python TensorFlow Keras CNN Deep Learning
 
-🧠 IMDb Sentiment Analysis with RNN
+# 🧠 IMDb Sentiment Analysis with RNN
 
 Deep Learning • Natural Language Processing • RNN
 
@@ -81,7 +81,7 @@ Evaluated model performance on unseen reviews
 
 Technologies: Python TensorFlow Keras RNN NLP
 
-🎨 Monet-to-Photo Image Translation with CycleGAN
+# 🎨 Monet-to-Photo Image Translation with CycleGAN
 
 Generative AI • GANs • Computer Vision
 
@@ -95,7 +95,7 @@ Generated photographs with Monet-inspired visual characteristics
 
 Technologies: Python TensorFlow Keras GAN CycleGAN Computer Vision
 
-📊 Statistical Modeling & Analysis
+# 📊 Statistical Modeling & Analysis
 
 Statistics • Data Analysis • Statistical Inference
 
