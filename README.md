@@ -37,6 +37,7 @@ Databases
 SQL Server PostgreSQL Relational Databases
 
 🚀 Featured Projects
+
 🏥 Healthcare Fraud Detection
 
 Machine Learning • XGBoost • Explainable AI
