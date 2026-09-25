@@ -1,128 +1,350 @@
-# Hamidaboutaher-
-Data Scientist | AI Engineer
+<div align="center">
 
-I build data-driven and AI solutions using machine learning, deep learning, statistical modeling, and data analytics.
+# 👋 Hi, I'm Taher Hamid
 
-My work combines a strong foundation in mathematics and statistics with practical experience using Python, R, and SQL to analyze data, develop predictive models, and build intelligent applications.
+### Data Scientist | AI Engineer
 
-Areas of focus:
+**Building data-driven solutions with Machine Learning, Deep Learning, Statistical Modeling, and Generative AI**
 
-🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-Statistics-informational?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SQL-Data-informational?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-informational?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/XGBoost-ML-informational?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-informational?style=flat-square" alt="Deep Learning">
+</p>
 
-📊 Data Science & Statistical Modeling
+</div>
 
-🧠 Deep Learning & Neural Networks
+---
 
-🔎 Explainable AI
+## 👨‍💻 About Me
 
-🏥 Healthcare Analytics & Fraud Detection
+I build **data-driven and AI solutions** using machine learning, deep learning, statistical modeling, and data analytics.
 
-📈 Data Visualization & Business Intelligence
+My work combines a strong foundation in **mathematics and statistics** with practical experience using **Python, R, and SQL** to analyze data, develop predictive models, and build intelligent applications.
 
- # 🛠️ Core Technologies
+### Areas of Focus
 
-Languages & Data
+<table>
+<tr>
+<td width="50%">
 
-Python R SQL Pandas NumPy
+🤖 **Artificial Intelligence & Machine Learning**
 
-Machine Learning
+📊 **Data Science & Statistical Modeling**
 
-Scikit-learn XGBoost SHAP
+🧠 **Deep Learning & Neural Networks**
 
-Deep Learning & AI
+</td>
+<td width="50%">
 
-TensorFlow Keras PyTorch CNN RNN LSTM GAN
+🔎 **Explainable AI**
 
-Analytics & Visualization
+🏥 **Healthcare Analytics & Fraud Detection**
 
-Tableau Power BI Matplotlib Excel
+📈 **Data Visualization & Business Intelligence**
 
-# Databases
+</td>
+</tr>
+</table>
 
-SQL Server PostgreSQL Relational Databases
+---
 
-# 🚀 Featured Projects
+# 🛠️ Technical Skills
 
-🏥 Healthcare Fraud Detection
+<table>
+<tr>
+<td valign="top" width="33%">
 
-Machine Learning • XGBoost • Explainable AI
+### 💻 Languages & Data
 
-An end-to-end machine learning project for detecting potentially fraudulent healthcare insurance claims.
+* Python
+* R
+* SQL
+* Pandas
+* NumPy
 
-Developed a classification pipeline for healthcare claim data
-Used XGBoost to model fraudulent vs. non-fraudulent claims
-Addressed class imbalance during model training
-Evaluated model performance using ROC-AUC, precision, recall, F1-score, and confusion matrix
-Applied SHAP to explain model predictions and identify important features
-Designed the project with potential deployment as an interactive application
+</td>
 
-# Technologies: Python Pandas Scikit-learn XGBoost SHAP
+<td valign="top" width="33%">
 
-# 🧬 Cancer Detection with CNN
+### 🤖 Machine Learning
 
-Deep Learning • Computer Vision • Convolutional Neural Networks
+* Scikit-learn
+* XGBoost
+* SHAP
+* Predictive Modeling
+* Classification
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🧠 Deep Learning
+
+* TensorFlow
+* Keras
+* PyTorch
+* CNN
+* RNN
+* LSTM
+* GAN
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 📊 Analytics
+
+* Tableau
+* Power BI
+* Matplotlib
+* Excel
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Databases
+
+* SQL Server
+* PostgreSQL
+* Relational Databases
+
+</td>
+
+<td valign="top">
+
+### 🔬 Data Science
+
+* Statistical Inference
+* Regression
+* Feature Engineering
+* Data Visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured AI & Data Science Projects
+
+## 🏥 Healthcare Fraud Detection
+
+**Machine Learning · XGBoost · Explainable AI**
+
+An end-to-end machine learning project for identifying **potentially fraudulent healthcare insurance claims**.
+
+**Key Work**
+
+* Developed a classification pipeline for healthcare claim data
+* Applied **XGBoost** for fraud classification
+* Addressed class imbalance during model training
+* Evaluated performance using ROC-AUC, precision, recall, F1-score, and confusion matrix
+* Applied **SHAP** to explain model predictions
+* Identified important factors associated with model predictions
+* Designed the project with potential deployment as an interactive application
+
+**Technologies**
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `SHAP`
+
+---
+
+## 🧬 Cancer Detection with CNN
+
+**Deep Learning · Computer Vision · Convolutional Neural Networks**
 
 A deep learning project using convolutional neural networks to classify cancer-related images.
 
-Prepared and processed image data for deep learning
-Developed a CNN-based classification model
-Applied model training and validation techniques
-Evaluated classification performance
-Explored deep learning approaches for medical image analysis
+**Key Work**
 
-Technologies: Python TensorFlow Keras CNN Deep Learning
+* Prepared and processed image data
+* Developed a CNN-based classification model
+* Applied training and validation techniques
+* Evaluated classification performance
+* Explored deep learning approaches for medical image analysis
 
-# 🧠 IMDb Sentiment Analysis with RNN
+**Technologies**
 
-Deep Learning • Natural Language Processing • RNN
+`Python` `TensorFlow` `Keras` `CNN` `Deep Learning`
 
-A natural language processing project that uses recurrent neural networks to classify IMDb movie reviews by sentiment.
+---
 
-Processed text reviews for neural network modeling
-Converted review text into numerical representations
-Developed an RNN-based sentiment classification model
-Trained the model to distinguish positive and negative reviews
-Evaluated model performance on unseen reviews
+## 🧠 IMDb Sentiment Analysis with RNN
 
-Technologies: Python TensorFlow Keras RNN NLP
+**Deep Learning · NLP · Recurrent Neural Networks**
 
-# 🎨 Monet-to-Photo Image Translation with CycleGAN
+A natural language processing project using recurrent neural networks to classify IMDb movie reviews by sentiment.
 
-Generative AI • GANs • Computer Vision
+**Key Work**
 
-A generative deep learning project using CycleGAN for unpaired image-to-image translation between Monet-style paintings and photographs.
+* Processed text reviews for neural network modeling
+* Converted review text into numerical representations
+* Developed an RNN-based sentiment classification model
+* Trained the model to distinguish positive and negative reviews
+* Evaluated model performance on unseen reviews
 
-Implemented an image-to-image translation approach
-Worked with unpaired image datasets
-Explored Generative Adversarial Networks (GANs)
-Used CycleGAN architecture to learn visual transformations
-Generated photographs with Monet-inspired visual characteristics
+**Technologies**
 
-Technologies: Python TensorFlow Keras GAN CycleGAN Computer Vision
+`Python` `TensorFlow` `Keras` `RNN` `NLP`
 
-# 📊 Statistical Modeling & Analysis
+---
 
-Statistics • Data Analysis • Statistical Inference
+## 🎨 Monet-to-Photo Image Translation with CycleGAN
+
+**Generative AI · GANs · Computer Vision**
+
+A generative deep learning project using **CycleGAN** for unpaired image-to-image translation between Monet-style paintings and photographs.
+
+**Key Work**
+
+* Implemented an image-to-image translation approach
+* Worked with unpaired image datasets
+* Explored Generative Adversarial Networks
+* Applied CycleGAN architecture
+* Generated photographs with Monet-inspired visual characteristics
+
+**Technologies**
+
+`Python` `TensorFlow` `Keras` `GAN` `CycleGAN` `Computer Vision`
+
+---
+
+## 📊 Statistical Modeling & Analysis
+
+**Statistics · Data Analysis · Statistical Inference**
 
 A collection of statistical analysis and modeling work demonstrating the application of statistical methods to real-world datasets.
 
-Exploratory data analysis
-Statistical inference
-Regression and statistical modeling
-Data visualization
-Interpretation and communication of statistical results
+**Key Work**
 
-Technologies: R Python Statistics Regression Data Visualization
+* Exploratory data analysis
+* Statistical inference
+* Regression and statistical modeling
+* Data visualization
+* Interpretation and communication of statistical results
 
-# 🚀 Currently Working On
-🤖 Large Language Models (LLMs) — exploring modern LLM architectures, applications, and AI systems
+**Technologies**
 
-🔎 Retrieval-Augmented Generation (RAG) — building systems that combine LLMs with external knowledge retrieval
+`R` `Python` `Statistics` `Regression` `Data Visualization`
 
-⚙️ MLOps & Machine Learning Engineering — developing reproducible and production-oriented ML workflows
+---
 
-🧱 Databricks — working with data, machine learning workflows, and scalable AI/ML platforms
+# 🔭 Currently Working On
 
-🧠 Generative AI — exploring practical applications of LLMs and modern generative AI techniques
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# ⭐ Thanks for visiting my profile 😊
+### 🤖 Large Language Models
+
+Exploring modern LLM architectures, applications, and AI systems.
+
+### 🔎 Retrieval-Augmented Generation
+
+Building RAG systems that combine LLMs with external knowledge retrieval.
+
+### ⚙️ MLOps & ML Engineering
+
+Developing reproducible and production-oriented machine learning workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧱 Databricks
+
+Working with scalable data, machine learning workflows, and AI/ML platforms.
+
+### 🧠 Generative AI
+
+Exploring practical applications of modern generative AI techniques.
+
+### 🚀 AI Applications
+
+Turning machine learning and AI concepts into practical, deployable solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Education & Certifications
+
+### 🎓 Education
+
+* **M.S. in Data Science**
+* **B.S. in Mathematics**
+* **B.S. in IT & Administrative Management**
+* **Graduate Certificate in Data Science**
+
+### 📜 Certifications
+
+* IBM Data Engineer Professional Certificate
+* Microsoft Excel Certification
+* Tableau Certification
+
+### 📚 Selected Coursework
+
+`Machine Learning` · `Deep Learning` · `Statistical Inference` · `Modern Regression` · `Programming & Algorithms` · `Data Visualization` · `Relational Databases` · `Markov Chain & Monte Carlo Methods`
+
+---
+
+# 📈 Data Science → AI Engineering
+
+My portfolio reflects a progression from **statistical analysis and data science** toward **modern AI and machine learning engineering**.
+
+```text
+Statistics & Mathematics
+          │
+          ▼
+     Data Science
+          │
+          ▼
+ Machine Learning
+          │
+          ▼
+   Deep Learning
+          │
+          ▼
+ Generative AI / LLMs
+          │
+          ▼
+ RAG · MLOps · Databricks
+          │
+          ▼
+Production AI Applications
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Data Science • Artificial Intelligence • Machine Learning • Generative AI**
+
+</div>
