@@ -108,3 +108,10 @@ Data visualization
 Interpretation and communication of statistical results
 
 Technologies: R Python Statistics Regression Data Visualization
+
+# 🚀 Currently Working On
+🤖 Large Language Models (LLMs) — exploring modern LLM architectures, applications, and AI systems
+🔎 Retrieval-Augmented Generation (RAG) — building systems that combine LLMs with external knowledge retrieval
+⚙️ MLOps & Machine Learning Engineering — developing reproducible and production-oriented ML workflows
+🧱 Databricks — working with data, machine learning workflows, and scalable AI/ML platforms
+🧠 Generative AI — exploring practical applications of LLMs and modern generative AI techniques
