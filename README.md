@@ -124,3 +124,5 @@ Technologies: R Python Statistics Regression Data Visualization
 🧱 Databricks — working with data, machine learning workflows, and scalable AI/ML platforms
 
 🧠 Generative AI — exploring practical applications of LLMs and modern generative AI techniques
+
+# ⭐ Thanks for visiting my profile!
