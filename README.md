@@ -8,10 +8,15 @@ My work combines a strong foundation in mathematics and statistics with practica
 Areas of focus:
 
 🤖 Artificial Intelligence & Machine Learning
+
 📊 Data Science & Statistical Modeling
+
 🧠 Deep Learning & Neural Networks
+
 🔎 Explainable AI
+
 🏥 Healthcare Analytics & Fraud Detection
+
 📈 Data Visualization & Business Intelligence
 
  # 🛠️ Core Technologies
@@ -111,7 +116,11 @@ Technologies: R Python Statistics Regression Data Visualization
 
 # 🚀 Currently Working On
 🤖 Large Language Models (LLMs) — exploring modern LLM architectures, applications, and AI systems
+
 🔎 Retrieval-Augmented Generation (RAG) — building systems that combine LLMs with external knowledge retrieval
+
 ⚙️ MLOps & Machine Learning Engineering — developing reproducible and production-oriented ML workflows
+
 🧱 Databricks — working with data, machine learning workflows, and scalable AI/ML platforms
+
 🧠 Generative AI — exploring practical applications of LLMs and modern generative AI techniques
