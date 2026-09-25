@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Taher Hamid
+# 👋 Hi, I'm Hamid Aboutaher
 
 ### Data Scientist | AI Engineer
 
